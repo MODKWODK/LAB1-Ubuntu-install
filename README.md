@@ -1,1 +1,1 @@
-# soc-lab-1
+# soc-lab-1 for Ubuntu install
